@@ -1,3 +1,7 @@
+# This script, when run in the parent directory of my
+# music collections, will look through all .cue files
+# and prints the names of ones that contain the 
+# character.
 for artist in *; do
     if [ -d "$artist" ]; then
 	cd "$artist";
