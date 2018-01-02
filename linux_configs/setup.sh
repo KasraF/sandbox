@@ -14,7 +14,7 @@ sudo add-apt-repository -y ppa:tista/adapta;
 # Update and install Apt applications
 sudo apt-get update;
 sudo apt-get upgrade -y;
-sudo apt-get install -y gnome texlive-full emacs-snapshot vlc git clang llvm paper-icon-theme paper-cursor-theme moc moc-ffmpeg-plugin network-manager-*-gnome cmake pkg-config git libao-dev libasound2-dev libavcodec-dev libavformat-dev libbluetooth-dev libenet-dev libgtk2.0-dev liblzo2-dev libminiupnpc-dev libopenal-dev libpulse-dev libreadline-dev libsfml-dev libsoil-dev libsoundtouch-dev libswscale-dev libusb-1.0-0-dev libwxbase3.0-dev libwxgtk3.0-dev libxext-dev libxrandr-dev portaudio19-dev zlib1g-dev libudev-dev libevdev-dev "libpolarssl-dev|libmbedtls-dev" libcurl4-openssl-dev libegl1-mesa-dev libpng-dev qtbase5-private-dev exfat-utils wine-development adapta-gtk-theme lightdm spotify-client gimp blender;
+sudo apt-get install -y gnome texlive-full emacs-snapshot vlc git clang llvm paper-icon-theme paper-cursor-theme moc moc-ffmpeg-plugin network-manager-*-gnome cmake pkg-config git libao-dev libasound2-dev libavcodec-dev libavformat-dev libbluetooth-dev libenet-dev libgtk2.0-dev liblzo2-dev libminiupnpc-dev libopenal-dev libpulse-dev libreadline-dev libsfml-dev libsoil-dev libsoundtouch-dev libswscale-dev libusb-1.0-0-dev libwxbase3.0-dev libwxgtk3.0-dev libxext-dev libxrandr-dev portaudio19-dev zlib1g-dev libudev-dev libevdev-dev "libpolarssl-dev|libmbedtls-dev" libcurl4-openssl-dev libegl1-mesa-dev libpng-dev qtbase5-private-dev exfat-utils wine-development adapta-gtk-theme lightdm spotify-client gimp blender dconf-editor;
 
 # Fix GRUB
 sudo cp -f ./grub /etc/default/grub;
