@@ -21,9 +21,9 @@ sudo cp -f ./grub /etc/default/grub;
 sudo update-grub;
 
 # Setup Git
-git config --global user.name  "Kasra Ferdowsifard";
-git config --global user.email "kferdowsifard@gmail.com";
-git config credential.helper   'store';
+git config --global user.name         "Kasra Ferdowsifard";
+git config --global user.email        "kferdowsifard@gmail.com";
+git config --global credential.helper store;
 
 # Setup Emacs
 cp -f ./.emacs ~/;
