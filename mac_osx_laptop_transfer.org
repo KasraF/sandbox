@@ -14,8 +14,8 @@
   13. Chrome
   14. Firefox
   15. Firefox Developer Edition
-  16. Tom Sawyer Perspectives
-  17. See Anatolijs's email regarding local devenv.
+  16. Perspectives
+  17. See instructions for setting up local web devenv.
   
 * Stuff to copy
   1. ~/development
