@@ -1,0 +1,24 @@
+* Stuff to install
+  1. JDK
+  2. git
+  3. SVN
+  4. Tomcat
+  5. Ant
+  6. Liberation Fonts
+  7. IntelliJ Idea
+  8. Docker
+  9. MacPorts
+  10. Emacs
+  11. Mattermost
+  12. Skype
+  13. Chrome
+  14. Firefox
+  15. Firefox Developer Edition
+  16. Tom Sawyer Perspectives
+  17. See Anatolijs's email regarding local devenv.
+  
+* Stuff to copy
+  1. ~/development
+  2. ~/Documents
+  3. ~/source
+  4. ~/informationsystems
